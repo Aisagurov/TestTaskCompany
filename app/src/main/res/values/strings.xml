@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTaskCompany</string>
+    <string name="companies">Компании</string>
+    <string name="web">сайт</string>
+    <string name="phone">телефон</string>
+    <string name="coordinate">координаты</string>
+</resources>
